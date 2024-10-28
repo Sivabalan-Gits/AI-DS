@@ -1,1 +1,1 @@
-Here you can find various path finding algorithms and their deployment
+Here you can find various Fundamental AI algorithms and their deployment
