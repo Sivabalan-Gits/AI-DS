@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sivabalan-Gits
 - 👀 I’m interested in research works and gaining hands on knowledge in the field of AI
 - 🌱 I’m currently underwent UG in B.Tech-CSE (with specialization in Artificial Intelligence and Data Science)
-- 😄 Pronouns: Siva
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Quiet Lazy to read books
 
 <!---
